@@ -1,4 +1,4 @@
-Installing ZSH on Windows 
+# Installing ZSH on Windows 
 
 ### This readme is to help you install zsh on windows , for step by step method with images visit [My Dev.to Post](https://dev.to/zinox9/installing-zsh-on-windows-37em)
 
