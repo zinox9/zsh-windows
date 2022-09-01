@@ -39,7 +39,7 @@ That's it for Cygwin , you can close the Terminal. Now let's move to the termina
 
 1. Download and install one font from the package of [Powerline Font](https://github.com/powerline/fonts) to use in the terminal for the custom Icons. For This Guide I will be using **MesloGS NF** given in the Files of this Repo
 
-2. [Download Cmder](https://cmder.net/) (the full Version !) it's a portable package so to install it just extract it into a folder where it can stay permanently.
+2. [Download Cmder](https://cmder.app/) (the full Version !) it's a portable package so to install it just extract it into a folder where it can stay permanently.
 
 3. Run cmder.exe
 
